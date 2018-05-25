@@ -7,8 +7,8 @@ var chocolateBars = [
 
 var array1 = []
 
-function addElementToBeginningOfArray(array1, cheese){
-  array1[1] = "cheese"
+function addElementToBeginningOfArray(array1, element){
+  array1[1] = element
   return array1
 }
 
